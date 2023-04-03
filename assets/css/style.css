@@ -1,0 +1,24 @@
+.first {
+  text-align: center;
+  padding: 2rem;
+}
+
+.first .inputs input {
+  margin-bottom: 10px;
+  height: 40px;
+  width: 25%;
+  text-align: center;
+}
+
+.inputs {
+  margin: auto;
+}
+
+h2 {
+  text-align: center;
+}
+
+button {
+  padding: 10px 25px;
+  cursor: pointer;
+}/*# sourceMappingURL=style.css.map */
